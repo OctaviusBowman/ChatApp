@@ -11,6 +11,9 @@
 # production
 /build
 
+# personal file
+ReadMe.txt
+
 # misc
 .DS_Store
 .env.local
